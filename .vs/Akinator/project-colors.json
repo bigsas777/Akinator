@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1ede695e-815b-4c20-90c8-5d2247f26546": {
+      "ProjectGuid": "1ede695e-815b-4c20-90c8-5d2247f26546",
+      "DisplayName": "Akinator",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

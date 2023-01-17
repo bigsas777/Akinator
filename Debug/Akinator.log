@@ -1,0 +1,9 @@
+﻿  Akinator.cpp
+C:\Users\lucaz\OneDrive\Desktop\Akinator\Akinator\Akinator.cpp(2,9): warning C4067: token imprevisti dopo una direttiva per il preprocessore. Previsto un carattere di nuova riga
+C:\Users\lucaz\OneDrive\Desktop\Akinator\Akinator\Gioco.h(2,9): warning C4067: token imprevisti dopo una direttiva per il preprocessore. Previsto un carattere di nuova riga
+C:\Users\lucaz\OneDrive\Desktop\Akinator\Akinator\Akinator.cpp(3,9): warning C4067: token imprevisti dopo una direttiva per il preprocessore. Previsto un carattere di nuova riga
+C:\Users\lucaz\OneDrive\Desktop\Akinator\Akinator\Akinator.cpp(4,9): warning C4067: token imprevisti dopo una direttiva per il preprocessore. Previsto un carattere di nuova riga
+  Gioco.cpp
+C:\Users\lucaz\OneDrive\Desktop\Akinator\Akinator\Gioco.h(2,9): warning C4067: token imprevisti dopo una direttiva per il preprocessore. Previsto un carattere di nuova riga
+  Generazione del codice in corso...
+  Akinator.vcxproj -> C:\Users\lucaz\OneDrive\Desktop\Akinator\Debug\Akinator.exe
